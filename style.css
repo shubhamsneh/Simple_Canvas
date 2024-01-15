@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-image: url("bg0.jpg");
+}
+
+#canvas {
+    border: 1px solid #000;
+    background-image: url("bg1.jpg");
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+}
+.container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.container span{
+    display: block;
+    padding: 20px;
+}
+button{
+    margin: 10px;
+    background-color: blue;
+    color: rgb(42, 34, 34);
+    width: 70px;
+    height: 30px;
+}
+.undodoredo{
+    display: flex;
+    justify-content: center;
+}
+
+.undodoredo span{
+    margin: 0;
+    text-align: center;
+}
+
+.undodoredo span button{
+    color: red;
+    background-color: white;
+    font-size: large;
+}
+
+.container #addTextButton{
+    background: rgb(140, 204, 71);
+}
