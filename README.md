@@ -1,5 +1,5 @@
 # Simple_Canvas
-# I built a simple canvas text editor with the ability to add text, change font, size, color, and undo/redo functionality. It's a great tool for creating dynamic content on the fly!
+# I've built a simple canvas text editor with the ability to add text, change font, size, color, and undo/redo functionality. It's a great tool for creating dynamic content on the fly!
 
 # Key Features:
 ✨ Add text to canvas
